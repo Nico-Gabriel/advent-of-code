@@ -1,0 +1,8 @@
+# assets
+input.txt
+
+# vscode
+.vscode/
+
+# misc
+.DS_Store
